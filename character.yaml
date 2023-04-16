@@ -1,0 +1,4 @@
+﻿text_file_encoding: utf-8
+portrait: image.jpg
+portrait_opacity: 0.67
+default_phonemizer: OpenUtau.Plugin.Builtin.JapaneseVCVPhonemizer

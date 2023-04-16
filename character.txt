@@ -1,0 +1,6 @@
+name=今川　有希
+author=KGS
+voice=Adios
+web=https://github.com/kgs233/UTAU-Yuki
+version=1.0
+image=image.jpg
