@@ -1,0 +1,31 @@
+#Adobe Audition
+*.pkf
+
+#UTAU Engines
+*.ctspec
+*.d4c
+*.dio
+*.frc
+*.frt
+*.frq
+*.harvest
+*.lessaudio
+*.llsm
+*.mrq
+*.pitchtier
+*.pkf
+*.platinum
+*.pmk
+*.star
+*.uspec
+*.vs4ufrq
+
+#UTAU related tools
+$read
+*.setParam-Scache
+*.lbp
+*.lbp.caches/*
+
+#OpenUtau
+errors.txt
+*.sc.npz

@@ -1,6 +1,7 @@
 ﻿singer_type: utau
 text_file_encoding: utf-8
-portrait: image.png 
-portrait_opacity: 0.67
+image: image.png
+portrait: sprites.png
+portrait_opacity: 0.5
 portrait_height: 0
 default_phonemizer: OpenUtau.Plugin.Builtin.JapaneseVCVPhonemizer
