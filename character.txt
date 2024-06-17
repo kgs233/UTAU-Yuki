@@ -3,5 +3,5 @@ author=Internet Tea Time
 Distribution: KGS様
 voice=Adios
 web=https://github.com/kgs233/UTAU-Yuki
-version=1.3
+version=2.0
 image=image.png
