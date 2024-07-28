@@ -1,5 +1,5 @@
 name=今川　有希
-author=Internet Tea Time
+author=MoeMoe Tea Time
 Distribution: KGS様
 voice=Adios
 web=https://github.com/kgs233/UTAU-Yuki
